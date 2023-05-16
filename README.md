@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+
+Click this link for Quick Preview
+
+https://suaruncharlie.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
